@@ -31,7 +31,7 @@
 			
 			Download "NTLM ordered by hash" and unzip locally (eg c:\audit\pwned-passwords-ntlm-ordered-by-hash-v5.txt)
 			
-			Pwnded Passwords V5 Download file is around 8GB (20GB unzipped) and contains 550+ million hashes
+			Pwnded Passwords V6 Download file is around 8GB (20GB unzipped) and contains 570+ million hashes
 
 		
 		3. DSInternals Framework - https://github.com/MichaelGrafnetter/DSInternals
